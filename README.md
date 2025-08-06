@@ -118,4 +118,4 @@ Practicing Qt GUI development in C++
 
 ---
 ## Authors
-Yahia Nassar       Hamza Omar      Amr khaled
+Yahia Nassar   -  Hamza Omar  -  Amr khaled
