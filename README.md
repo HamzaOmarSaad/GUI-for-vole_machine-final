@@ -91,6 +91,7 @@ Bytes	   Meaning
 
 ---
 ## GUI Preview
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57e2033c-829e-487c-823d-30c5c8e4dd59" />
 
 
 ---
